@@ -1,0 +1,20 @@
+{
+  "name": "ifttt-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nicolas Duvieusart Déry <nddery@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.0",
+    "dotenvenc": "^1.0.4",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
